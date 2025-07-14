@@ -44,7 +44,7 @@ The following Scenarios are used based on the Sources [5,6,7,..]
 
 [3] WPUQ 
 
-[4] Global radiation data source?? 
+[4] ... 
 
-[5] 
+[5] ...
 
